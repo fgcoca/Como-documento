@@ -13,12 +13,12 @@ edit_uri: ""
 copyright: Copyright &copy; 2020 - 2021 Federico Coca bajo las licencias establecidas
 
 # 4. RRSS TODO:
-#extra:
-#  social:
-#    - type: 'github'
-#      link: 'https://github.com/fgcoca'
-#    - type: 'twitter'
-#      link: 'https://twitter.com/fgcoca'
+extra:
+  social:
+    - type: 'github'
+      link: 'https://github.com/fgcoca'
+    - type: 'twitter'
+      link: 'https://twitter.com/fgcoca'
 
 # 5. Navegación
 nav:
