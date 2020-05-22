@@ -1,6 +1,6 @@
 # Webgrafía
 
-* [Plantilla de La jaqueria](https://github.com/lajaqueria/plantilla-taller) creada por @CrisConRu
+* [Plantilla de La Jaqueria](https://github.com/lajaqueria/plantilla-taller) creada por @CrisConRu
 
 * [Páginas de GitHub](https://pages.github.com/)
 
@@ -15,3 +15,6 @@
 * [Git en VSCode](https://www.youtube.com/watch?v=AYbgqmyg7dk)
 
 * [Tutoriales sobre VSCode](https://www.tutorialesprogramacionya.com/herramientas/vscodeya/)
+* [Uso de herramientas de control de versiones de Git en VSCode](https://docs.microsoft.com/es-es/learn/modules/use-git-from-vs-code/)
+* [Video tutorial de como trabajar con Git desde VSCode](https://www.youtube.com/watch?v=AYbgqmyg7dk)
+* [Lemoncode blog](https://lemoncode.net/lemoncode-blog/2017/12/12/git-y-visual-studio-code)

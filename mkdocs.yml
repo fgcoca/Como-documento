@@ -29,15 +29,13 @@ nav:
   - Resumen de MkDocs: Resumen-MkDocs.md
   - El archivo mkdocs.yml. Libreria Material: Libreria-Material.md
   - Primer despliegue: Primer-despliegue.md
+  - Git en VSCode: GIT_VSCode.md # TODO:
+  - Ayuda para escribir en Markdown: markdown.md # TODO:
   - Autor y licencias: about.md # TODO:
   - Referencias: 
     - Antes de nada: Referencias/antes.md
     - Webgrafia: Referencias/webgrafia.md
     - Software utilizado: Referencias/sof.md 
-  - Ayuda para escribir: # TODO:
-    - Notas: ayuda/ayuda.md # TODO:
-    - Markdown: ayuda/markdown.md # TODO:
-    - Material Design: ayuda/material.md # TODO:
 
 # 6. Google Analytics
 #google_analytics:
