@@ -328,6 +328,107 @@ Podemos observar como se realiza la comparación de la linea antes y después de
 
 </center>
 
+## Creación del archivo README.md remoto. `Git pull`
+
+Para ver el funcionamiento de la orden `git pull` vamos a crear un archivo en la nube, para ello nos dirigimos al repositorio, donde nos encontramos con la situación que vemos en la image 25. 
+
+<center>
+
+| _Imagen 25_ |
+| :-:|
+| ![Creación en la nube de README.md](../img/git_VSCode/i25.png) |
+| _Creación en la nube de README.md_ |
+
+</center>
+
+Si hacemos clic en el botón señalado se nos crea la estructura básica del archivo, tal y como observamos en la imagen 26, donde ya hemos añadido algunas líneas.
+
+<center>
+
+| _Imagen 26_ |
+| :-:|
+| ![El archivo README.md con su contenido inicial](../img/git_VSCode/i26.png) |
+| _El archivo README.md con su contenido inicial_ |
+
+</center>
+
+Si nos desplazamos hacia abajo en la página nos encontramos con la información para `commit` que hacemos sin modificar el mensaje por defecto, tal y como se observa en la imagen 27.
+
+<center>
+
+| _Imagen 27_ |
+| :-:|
+| ![Realizamos commit del archivo README.md](../img/git_VSCode/i27.png) |
+| _Realizamos commit del archivo README.md_ |
+
+</center>
+
+El resultado final en la nube lo vemos en la imagen 28, donde se observa aque ya existe el archivo y su aspecto.
+
+<center>
+
+| _Imagen 28_ |
+| :-:|
+| ![Archivo README.md creado](../img/git_VSCode/i28.png) |
+| _Archivo README.md creado_ |
+
+</center>
+
+Lógicamente este archivo no lo tenemos en el repo local. Disponemos de varias formas de hacer que esto se solucione. Desde `control de cambios` escogemos la opción que vemos en la imagen 29 que se corresponde con `git pull`.
+
+<center>
+
+| _Imagen 29_ |
+| :-:|
+| ![Acceso a pull](../img/git_VSCode/i29.png) |
+| _Acceso a pull_ |
+
+</center>
+
+Nos va a mostrar una ventana solicitando la selección del origen remoto del que hacer pull, tal y como observamos en la imagen 30. 
+
+<center>
+
+| _Imagen 30_ |
+| :-:|
+| ![Selección del origen remoto](../img/git_VSCode/i30.png) |
+| _Selección del origen remoto_ |
+
+</center>
+
+Escogemos la rama de donde vamos a realizar la extracción, como se observa en la imagen 31.
+
+<center>
+
+| _Imagen 31_ |
+| :-:|
+| ![Selección de la rama remota](../img/git_VSCode/i31.png) |
+| _Selección de la rama remota_ |
+
+</center>
+
+En unos instantes el aspecto que toma VSCode es el que vemos en la imagen 32.
+
+<center>
+
+| _Imagen 32_ |
+| :-:|
+| ![Reflejo de los cambios para pull](../img/git_VSCode/i32.png) |
+| _Reflejo de los cambios para pull_ |
+
+</center>
+
+Cuando confirmemos los cambios nos aparecerá en el repo local el archivo creado en la nube, tal y como se observa en la imagen 33.
+
+<center>
+
+| _Imagen 33_ |
+| :-:|
+| ![Acción pull finalizada](../img/git_VSCode/i33.png) |
+| _Acción pull finalizada_ |
+
+</center>
+
 ## Observación final
 
 Esto que hemos visto es tan solo lo imprescindible de Git para poder trabajar de forma local y poder reflejar los cambios en la nube pero en ningún caso es información completa de Git.
