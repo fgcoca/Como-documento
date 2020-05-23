@@ -19,3 +19,4 @@ python_version = "3"
 [scripts]
 servidor = "mkdocs serve"
 instalar = "install"
+desplegar = "mkdocs gh-deploy"
