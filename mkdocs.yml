@@ -30,7 +30,7 @@ nav:
   - El archivo mkdocs.yml. Libreria Material: Libreria-Material.md
   - Primer despliegue: Primer-despliegue.md
   - Git en VSCode: GIT_VSCode.md 
-  - Ayuda para escribir en Markdown: markdown.md # TODO:
+  - Ayuda para escribir en Markdown: markdown.md
   - Autor: about.md 
   - Licencias: Referencias/licencias.md
   - Referencias: 
