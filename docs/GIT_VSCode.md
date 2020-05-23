@@ -217,9 +217,117 @@ Si ahora vamos al directorio correspondiente en nuestro github podemos comprobar
 
 | _Imagen 15_ |
 | :-:|
-| ![Verificacion en Github del Push realizado](../img/git_VSCode/i15.png) |
+| ![Verificacion en Github del Push realizado desde VSCode](../img/git_VSCode/i15.png) |
 | _Verificacion en Github del Push realizado_ |
 
 </center>
+
+## Analisis de cambios en archivos
+
+Una herramienta muy útil de VSCode es la que vamos a ver seguidamente. Como observamos en la imagen 16 en el archivo señalado se han realizado cambios.
+
+<center>
+
+| _Imagen 16_ |
+| :-:|
+| ![Archivo que ha sufrido cambios](../img/git_VSCode/i16.png) |
+| _Archivo que ha sufrido cambios_ |
+
+</center>
+
+ Pero ¿cuales son esos cambios?. Pues bien, si hacemos clic sobre el archivo y ocultamos el navegador haciendo clic sobre el icono de control de código veremos una ventana como la de la imagen 17, donde vemos dos columnas, la de la izquierda muestra el archivo antes de realizar cambios y la de la derecha muestra los cambios realizados.
+
+<center>
+
+| _Imagen 17_ |
+| :-:|
+| ![Comparación del archivo con cambios](../img/git_VSCode/i17.png) |
+| _Comparación del archivo con cambios_ |
+
+</center>
+
+Esto se puede conseguir directamente desde la línea de comandos en una terminal tecleando `git status` que mostrará en que archivo se han realizado los cambios y después `git diff <nombre del archivo>` del que mostrar las diferencias. En la imagen 18 vemos el resultado de ejecutar estos comandos.
+
+<center>
+
+| _Imagen 18_ | |
+| :-:| :-:|
+| ![Resultado de git status](../img/git_VSCode/i18a.png) |![Resultado de git diff](../img/git_VSCode/i18b.png) |
+| _Resultado de git status_ | _Resultado de git diff_ |
+
+</center>
+
+## Añadir extensiones Git
+
+Vamos a añadir una extensión muy interesante de VSCode que se llama `GitLens` y que agrega muchas funcionalidades. En la imagen 19 vemos el resultado de buscar e instalar esta extensión.
+
+<center>
+
+| _Imagen 19_ | |
+| :-:| :-:|
+| ![Autorun de GitLens tras instalar](../img/git_VSCode/i19a.png) |![GitLens instalado](../img/git_VSCode/i19b.png) |
+| _Autorun de GitLens tras instalar_ | _GitLens instalado_ |
+
+</center>
+
+Vamos a ver las principales funcionalidades de `GitLens`:
+* Cuando nos situamos sobre cualquier linea (imagen 20), incluso en la que estamos escribiendo, se nos informa del autor del último commit, cuando se hizo y si los cambios han sido confirmados o no.
+
+<center>
+
+| _Imagen 20_ |
+| :-:|
+| ![Información de GitLens](../img/git_VSCode/i20.png) |
+| _Información de GitLens_ |
+
+</center>
+
+Si dejamos unos instante el cursor sobre la información esta será ampliada en una ventana emergente tal y como observamos en la imagen 21.
+
+<center>
+
+| _Imagen 21_ |
+| :-:|
+| ![Información de GitLens ampliada](../img/git_VSCode/i21.png) |
+| _Información de GitLens ampliada_ |
+
+</center>
+
+* Una segunda funcionalidad interesante de `GitLens` es la que observamos en la imagen 22. Se trata de unas líneas verticales de color azul o verde que indican los cambios realizados en el archivo, en concreto el color azul indica que la línea ha sido modificada y el color verde que ha sido añadida. En ambos casos, si situamos el cursor sobre la línea esta de engrosa.
+
+<center>
+
+| _Imagen 22_ |
+| :-:|
+| ![Información de GitLens: modificación o nuevo](../img/git_VSCode/i22.png) |
+| _Información de GitLens: modificación o nuevo_ |
+
+</center>
+
+Si hacemos clic sobre una de las líneas, por ejemplo la modificada, se nos despliega la información que vemos en la imagen 23. 
+
+<center>
+
+| _Imagen 23_ |
+| :-:|
+| ![Información de GitLens: desiegue](../img/git_VSCode/i23.png) |
+| _Información de GitLens: desiegue_ |
+
+</center>
+
+Podemos observar como se realiza la comparación de la linea antes y después de modificarla y muy importante es que para esta modificación (no para todo el archivo) disponemos de las herramientas asociadas a control de código, pero que si las usamos tan solo se aplican a esta línea.
+
+* Si hacemos clic sobre el icono de `GitLen` se nos despliegan las funcionalidades que tiene la extensión y que van desde la información del repositorio o del archivo, permite realizar comparaciones (igual que `git staff`) e incluso buscar commits. En la imagen 24 las vemos.
+
+<center>
+
+| _Imagen 24_ |
+| :-:|
+| ![Funcionalidades de GitLens](../img/git_VSCode/i24.png) |
+| _Funcionalidades de GitLens_ |
+
+</center>
+
+## Observación final
 
 Esto que hemos visto es tan solo lo imprescindible de Git para poder trabajar de forma local y poder reflejar los cambios en la nube pero en ningún caso es información completa de Git.
