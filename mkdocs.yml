@@ -29,9 +29,10 @@ nav:
   - Resumen de MkDocs: Resumen-MkDocs.md
   - El archivo mkdocs.yml. Libreria Material: Libreria-Material.md
   - Primer despliegue: Primer-despliegue.md
-  - Git en VSCode: GIT_VSCode.md # TODO:
+  - Git en VSCode: GIT_VSCode.md 
   - Ayuda para escribir en Markdown: markdown.md # TODO:
-  - Autor y licencias: about.md # TODO:
+  - Autor: about.md 
+  - Licencias: Referencias/licencias.md
   - Referencias: 
     - Antes de nada: Referencias/antes.md
     - Webgrafia: Referencias/webgrafia.md
@@ -87,10 +88,7 @@ markdown_extensions:
   - pymdownx.inlinehilite
   - pymdownx.keys
   - pymdownx.magiclink:
-      repo_url_shorthand: true
-      user: squidfunk
-      repo: mkdocs-material
-  - pymdownx.mark
+      repo_url_shorthan</center>
   - pymdownx.smartsymbols
   - pymdownx.superfences
   - pymdownx.tasklist:

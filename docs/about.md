@@ -62,6 +62,3 @@ Incorporaciones importantes al proyecto son:
 
 Del 6 de mayo al 27 de junio de 2020 participo en la residencia [Robótica III](https://faberllull.cat/ca/residencies/residencies-19-20/robotica-iii/) que se celebra de forma telemática.
 
-## Licencia MIT
-La licencia MIT fue la establecida al crear el repositorio en GitHub y está disponible para su lectura en el mismo repositorio a través de este [enlace](https://github.com/fgcoca/Como-documento/blob/master/LICENSE)
-## Licencia ...TODO:

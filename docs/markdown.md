@@ -1,4 +1,6 @@
-# Chuleta de Markdown
+# Ayuda para escribir en Markdown
+
+Simplemente reproduzco aquí la chuleta que viene con la plantilla a la que añado alguna cosa que me resulta interesante.
 
 Esta es solo una chuleta de Markdown básico. En esta web tienes una referencia muy buena -> [Web de Markdown](https://markdown.es/).
 
@@ -9,22 +11,17 @@ Para escribir Markdown se recomienda usar como editor [VSCode](https://code.visu
 
 ## Títulos
 
-# Esto es un título 1 -> Usar solo al principio del fichero
+<center>
 
-## Esto es un título 2 -> Usar para dividir en secciones
+![Titulos](../img/titulos.png)
 
-### Esto es un título 3 -> Usar para dividir en subsecciones
-
-#### Esto es un título 4 -> No recomendado su uso
-
-##### Esto es un título 5 -> No recomendado su uso
-
-##### Esto es un título 6 -> No recomendado su uso
+</center>
 
 ## Textos
 
-Texto en **negrita**.  
-Texto en *cursiva*.  
+Texto en **negrita** o __negrita__.  
+Texto en *cursiva* o _cursiva_.
+Texto en ***negrita y cursiva***
 
 Para poner un salto de linea tienes que poner dos espacios en blanco después del punto.  
 Esta línea está debajo.
