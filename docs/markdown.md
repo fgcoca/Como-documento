@@ -1,6 +1,6 @@
 # Ayuda para escribir en Markdown
 
-Simplemente reproduzco aquí la chuleta que viene con la plantilla a la que añado alguna cosa que me resulta interesante.
+Simplemente reproduzco aquí la chuleta que viene con la plantilla a la que añado alguna pequeña cosa que me resulta interesante.
 
 Esta es solo una chuleta de Markdown básico. En esta web tienes una referencia muy buena -> [Web de Markdown](https://markdown.es/).
 
