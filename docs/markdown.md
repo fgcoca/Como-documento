@@ -19,8 +19,8 @@ Para escribir Markdown se recomienda usar como editor [VSCode](https://code.visu
 
 ## Textos
 
-Texto en **negrita** o __negrita__.  
-Texto en *cursiva* o _cursiva_.
+Texto en **negrita** o __esto tsmbién es negrita__.  
+Texto en *cursiva* o _esto también es cursiva_.  
 Texto en ***negrita y cursiva***
 
 Para poner un salto de linea tienes que poner dos espacios en blanco después del punto.  
