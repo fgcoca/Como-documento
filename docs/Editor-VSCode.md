@@ -272,7 +272,7 @@ Hay otra forma especialmente útil de añadir archivos a la ventana de  edición
 
 <center>
 
-|![Abrir a pantalla completa](../img/VSCode/gif-documet/Abrir-completa.gif)|
+![Abrir a pantalla completa](../img/VSCode/gif-documet/Abrir-completa.gif)
 
 </center>
 
@@ -280,7 +280,7 @@ Hay otra forma especialmente útil de añadir archivos a la ventana de  edición
 
 <center>
 
-|![Abrir en división o disposición vertical](../img/VSCode/gif-documet/Abrir-vertical.gif)|
+![Abrir en división o disposición vertical](../img/VSCode/gif-documet/Abrir-vertical.gif)
 
 </center>
 
@@ -288,7 +288,7 @@ Hay otra forma especialmente útil de añadir archivos a la ventana de  edición
 
 <center>
 
-|![Abrir en división o disposición horizontal](../img/VSCode/gif-documet/Abrir-horizontal.gif)|
+![Abrir en división o disposición horizontal](../img/VSCode/gif-documet/Abrir-horizontal.gif)
 
 </center>
 
