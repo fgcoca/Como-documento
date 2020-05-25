@@ -69,6 +69,7 @@ Con esto hemos creado una rama de código especial llamada gh-pages o páginas G
 Si necesitamos borrar una rama previamente creada hacemos clic en el número de ramas (branches) y se nos abrirá una nueva ventana (imagen 7) con todas las ramas, basta con localizar la que queremos eliminar y hacer clic sobre la papelera.
 
 <center>
+
 | _Imagen 7_ |
 | :-: |
 |![Eliminar una rama en un repositorio](../docs/img/plantilla/i7.png) |
