@@ -67,10 +67,14 @@ Una vez terminada la tarea el aspecto de nuestro repositorio (imagen 6) muestra 
 Con esto hemos creado una rama de código especial llamada gh-pages o páginas GitHub. Esta rama es un servicio de alojamiento de sitio estático que toma archivos HTML, CSS y JavaScript directamente desde un repositorio en GitHub, y a través de un proceso de compilación publica un sitio web.  La URL toma la forma `usuario.github.io/mi-repositorio`.
 
 Si necesitamos borrar una rama previamente creada hacemos clic en el número de ramas (branches) y se nos abrirá una nueva ventana (imagen 7) con todas las ramas, basta con localizar la que queremos eliminar y hacer clic sobre la papelera.
+
+<center>
 | _Imagen 7_ |
 | :-: |
 |![Eliminar una rama en un repositorio](../docs/img/plantilla/i7.png) |
 |_Eliminar una rama en un repositorio_ |
+
+</center>
 
 - En la sección _Settings_ del repositorio, localizamos la parte de _Github Pages_ y habilitamos la opción de usar la rama _gh-pages_ creada tal y como vemos en la imagen 8 haciendo clic en _gh-pages branch_.
 

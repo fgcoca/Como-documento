@@ -282,9 +282,9 @@ Hay otra forma especialmente útil de añadir archivos a la ventana de  edición
 
 |![Abrir en división o disposición vertical](../img/VSCode/gif-documet/Abrir-vertical.gif)|
 
-**3.- Abrir en división o disposición horizontal**
-
 </center>
+
+**3.- Abrir en división o disposición horizontal**
 
 <center>
 

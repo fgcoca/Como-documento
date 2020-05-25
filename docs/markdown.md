@@ -43,7 +43,7 @@ Así se pone una imagen desde Internet
 
 Y así se pone una imagen desde el propio taller
 
-![Imagen del taller](../img/logo.png)
+![Imagen del taller](../img/mi-logo128x128px.png)
 
 ## Listas
 

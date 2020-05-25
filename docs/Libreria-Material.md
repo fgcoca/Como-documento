@@ -127,9 +127,9 @@ En la imagen 10 vemos destacados los de nuestra configuración.
 | ![Configuración de colores](../img/Material/i10.png) |
 | _Configuración de colores_ |
 
-En este [enlace](https://squidfunk.github.io/mkdocs-material/getting-started/#primary-colors) podemos comprobar visualmente el funcionamiento de estos colores.
-
 </center>
+
+En este [enlace](https://squidfunk.github.io/mkdocs-material/getting-started/#primary-colors) podemos comprobar visualmente el funcionamiento de estos colores.
 
 A continuación tenemos la configuración de fuentes, que por defecto son `Roboto` y `Roboto Mono`. Estas fuentes forman parte de [Google Fonts](https://fonts.google.com/) y podemos cambiarlas por otras. 
 
