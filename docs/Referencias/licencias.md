@@ -44,7 +44,7 @@ El texto de la licencia queda alojado en la raíz de la rama master y tendremos 
 
 <center>
 
-[Enlace a la licencia GNU del proyecto](../LICENSE-GNU.md)
+[Enlace a la licencia GNU del proyecto](https://github.com/fgcoca/Como-documento/blob/master/LICENSE-GNU.md)
 
 </center>
 
