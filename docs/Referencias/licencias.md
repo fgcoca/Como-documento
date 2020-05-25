@@ -42,7 +42,11 @@ La ventana que se nos abre nos muestra las licencias disponibles y por ejemplo (
 
 El texto de la licencia queda alojado en la raíz de la rama master y tendremos que hacer `git pull` para tenerlo en el repo local y que sea añadido al sitio cuando realicemos el despliegue.
 
-[Enlace a la licencia GNU del proyecto](../../LICENSE-GNU.md)
+<center>
+
+[Enlace a la licencia GNU del proyecto](../LICENSE-GNU.md)
+
+</center>
 
 ## Licencia CC BY-SA 4.0
 

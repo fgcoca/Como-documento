@@ -72,7 +72,7 @@ Si necesitamos borrar una rama previamente creada hacemos clic en el número de 
 
 | _Imagen 7_ |
 | :-: |
-|![Eliminar una rama en un repositorio](../docs/img/plantilla/i7.png) |
+|![Eliminar una rama en un repositorio](../img/plantilla/i7.png) |
 |_Eliminar una rama en un repositorio_ |
 
 </center>
