@@ -6,7 +6,7 @@ En concreto vamos a ver como podríamos añadir otra licencia online y en segund
 
 ## Licencia MIT
 
-La licencia MIT fue la establecida al crear el repositorio en GitHub y está disponible para su lectura en el mismo repositorio a través de este [enlace](https://github.com/fgcoca/Como-documento/blob/master/LICENSE).
+La licencia MIT fue la establecida al crear el repositorio en GitHub y está disponible para su lectura en el mismo repositorio a través de este [enlace](https://github.com/fgcoca/Como-documento/blob/master/LICENSE.md).
 
 ## Licencia GNU
 
