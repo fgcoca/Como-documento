@@ -43,6 +43,10 @@ Para poder ver el taller en local como si estuvieramos en Internet, es necesario
 
 Ahora en el navegador podemos ir viendo como va quedando en la web [http://127.0.0.1:8000/]().
 
+Para probar que todo está correcto podemos hacer nuestro primer despliegue con:
+
+<center>pipenv run mkdocs gh-deploy</center>
+
 <hr width=100%  size=10 noshade="noshade">
 
 ## <FONT COLOR=#FF0000>**La documentación original**</font>
