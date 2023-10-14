@@ -41,7 +41,7 @@ Para poder ver el taller en local como si estuvieramos en Internet, es necesario
 * Activar el entorno virtual: ```source env/bin/activate```
 * Correr el servidor: ```mkdocs serve```
 
-Ahora en el navegador podemos ir viendo como va quedando en la web [http://127.0.0.1:8000/](http://127.0.0.1:8000/).
+Ahora en el navegador podemos ir viendo como va quedando en la web [http://127.0.0.1:8000/]().
 
 <hr width=100%  size=10 noshade="noshade">
 
