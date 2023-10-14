@@ -1,5 +1,51 @@
 # Como documento mis proyectos
 
+## <FONT COLOR=#FF0000>**NOVEDADES**</font>
+Cristobal Contreras ha realizado una actualización de la plantilla de [La Jaqueria](https://github.com/lajaqueria/plantilla-taller) para documentar talleres, debido fundamentalmente a que la herramienta pipenv ha quedado obsoleta, aunque se puede seguir utilizando.
+
+El resto de esta documentación puede seguir resultando válida si tenemos en cuenta todas las actualizaciones realizadas desde que se inició la misma allá por mayo de 2020.
+
+Resumo a continuación los aspectos fundamentales citados en la nueva plantilla:
+
+* Sigue siendo necesario tener instalado [Python 3](https://www.python.org/downloads/) y el gestor de paquetes de Python [PIP](https://pip.pypa.io/en/stable/installation/). **Ignoramos todo lo que haga referencia a pipenv**.
+* Sigo utilizando como editor de texto [Visual Studio Code](https://code.visualstudio.com/) con las extensiones recomendadas en la plantilla y algunas otras que he ido descubriendo.
+* El proceso de **instalación de la plantilla** sigue siendo básicamente el mismo con las siguientes salvedades:
+
+En Setting nos dirigimos a Pages y ahora se muestra como vemos en la imagen siguiente, sin tener que hacer nada mas por defecto.
+
+<center>
+
+![Enlace a la web en Settings/Pages](./img/intro/page.png)  
+*Enlace a la web en Settings/Pages*
+
+</center>
+
+Si estamos utilizando una plantilla adaptada, como es mi caso, la actualizamos con la nueva plantilla-taller descargada y procedemos a realizar la copia de archivos en el directorio donde hemos clonado el repo. Debemos copiar:
+
+* Carpeta docs
+* mkdocs.yml
+* Pipfile
+* .gitignore
+* LICENSE
+
+<FONT COLOR=#BB00FF><font size="5"><b>Lo que vamos a ver a continuación es totalmente nuevo.</font color></font size></b>
+
+Tenemos que preparar el equipo para trabajar con la plantilla. Nos situamos en la carpeta con la que vamos a trabajar, abrimos una terminal y creamos el entorno virtual e instalamos todas las dependencias con:
+
+* Creamos el entorno virtual: ```python -m venv env```
+* Activamos el entorno virtual: ```source env/bin/activate```
+* Instalamos las dependencias: ```pip install -r requirements.txt```
+
+Para poder ver el taller en local como si estuvieramos en Internet, es necesario levantar un servidor de pruebas. Es tan sencillo como desde la terminal en la carpeta de trabajo hacer:
+
+* Activar el entorno virtual: ```source env/bin/activate```
+* Correr el servidor: ```mkdocs serve```
+
+Ahora en el navegador podemos ir viendo como va quedando en la web [http://127.0.0.1:8000/](http://127.0.0.1:8000/).
+
+<hr width=100%  size=10 noshade="noshade">
+
+## <FONT COLOR=#FF0000>**La documentación original**</font>
 Voy a tratar de poner en este tutorial todo lo necesario para crear de forma sencilla la documentación de un proyecto cualquiera y tenerlo disponible como una página de GitHub.
 
 Para ello voy a seguir la plantilla de [La Jaqueria](https://github.com/lajaqueria/plantilla-taller) creada por Cristobal Contreras donde explica claramente todo lo que necesitamos para documentar de esta forma que vamos a explicar.
