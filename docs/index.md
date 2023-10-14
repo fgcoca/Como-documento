@@ -28,7 +28,7 @@ Si estamos utilizando una plantilla adaptada, como es mi caso, la actualizamos c
 * .gitignore
 * LICENSE
 
-<FONT COLOR=#BB00FF><font size="5"><b>Lo que vamos a ver a continuación es totalmente nuevo.</font color></font size></b>
+<b>Lo que vamos a ver a continuación es totalmente nuevo.</b>
 
 Tenemos que preparar el equipo para trabajar con la plantilla. Nos situamos en la carpeta con la que vamos a trabajar, abrimos una terminal y creamos el entorno virtual e instalamos todas las dependencias con:
 
@@ -36,10 +36,10 @@ Tenemos que preparar el equipo para trabajar con la plantilla. Nos situamos en l
 * Activamos el entorno virtual: ```source env/bin/activate```
 * Instalamos las dependencias: ```pip install -r requirements.txt```
 
-<FONT COLOR=#0000FF><font size="4"><b>Cuando montamos el entorno virtual debemos tener presente que si estamos trabajando con una unidad USB formateada con FAT32 el entorno ```virtualenv``` no puede trabajar en estas unidades desde Linux. Sería necesario poner los archivos en una unidad que soporte permisos POSIX. Es decir:
+**Cuando montamos el entorno virtual debemos tener presente que si estamos trabajando con una unidad USB formateada con FAT32 el entorno ```virtualenv``` no puede trabajar en estas unidades desde Linux. Sería necesario poner los archivos en una unidad que soporte permisos POSIX. Es decir:**
 
-* Con un disco formateado en FAT32, ```venv``` espera poder establecer permisos en estos archivos, y FAT32 no los tiene.
-* Así que, para solucionarlo, necesitamos formatear la unidad USB con un sistema de archivos "adecuado". XFS o ext4 serían las opciones naturales en Linux.</font color></font size></b>
+* **Con un disco formateado en FAT32, ```venv``` espera poder establecer permisos en estos archivos, y FAT32 no los tiene.**
+* **Así que, para solucionarlo, necesitamos formatear la unidad USB con un sistema de archivos "adecuado". XFS o ext4 serían las opciones naturales en Linux.**
 
 Para poder ver el taller en local como si estuvieramos en Internet, es necesario levantar un servidor de pruebas. Es tan sencillo como desde la terminal en la carpeta de trabajo hacer:
 
