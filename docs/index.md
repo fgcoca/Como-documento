@@ -33,7 +33,7 @@ Si estamos utilizando una plantilla adaptada, como es mi caso, la actualizamos c
 
 Tenemos que preparar el equipo para trabajar con la plantilla. Nos situamos en la carpeta con la que vamos a trabajar, abrimos una terminal y creamos el entorno virtual e instalamos todas las dependencias con:
 
-* Creamos el entorno virtual: ```python -m venv env```
+* Creamos el entorno virtual: ```python3 -m venv env```
 * Activamos el entorno virtual: ```source env/bin/activate```
 * Instalamos las dependencias: ```pip install -r requirements.txt```
 
