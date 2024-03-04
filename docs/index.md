@@ -26,6 +26,7 @@ Si estamos utilizando una plantilla adaptada, como es mi caso, la actualizamos c
 * mkdocs.yml
 * Pipfile
 * .gitignore
+* requirement.txt
 * LICENSE
 
 <b>Lo que vamos a ver a continuación es totalmente nuevo.</b>
